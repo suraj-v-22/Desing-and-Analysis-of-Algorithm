@@ -32,17 +32,17 @@ problem and then solve the same problem instance using any approximation algorit
 and determine the error in the approximation. 
 
 7. a) Print all the nodes reachable from a given starting node in a digraph using BFS 
-method. 
-7. b) Check whether a given graph is connected or not using DFS method. 
+method.
+7. b) Check whether a given graph is connected or not using DFS method.
 
 8. From a given vertex in a weighted connected graph, find shortest paths to other vertices 
-using Dijkstra’s algorithm. 
+using Dijkstra’s algorithm.
 
-9. Implement All-Pairs Shortest Paths Problem using Floyd’s algorithm. 
+9. Implement All-Pairs Shortest Paths Problem using Floyd’s algorithm.
 
-10. a) Obtain the Topological ordering of vertices in a given digraph. 
+10. a) Obtain the Topological ordering of vertices in a given digraph.
 10. b) Compute the transitive closure of a given directed graph using Warshall’s algorithm.
 
-11. Find Minimum Cost Spanning Tree of a given undirected graph using Kruskal’s algorithm.  
+11. Find Minimum Cost Spanning Tree of a given undirected graph using Kruskal’s algorithm.
 
 12. Find Minimum Cost Spanning Tree of a given undirected graph using Prim’s algorithm.
